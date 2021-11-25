@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+		"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+		"Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+@font-face {
+	font-family: "font1B";
+	src: url(./common/fonts/open-sans/OpenSans-Bold.ttf);
+}
+@font-face {
+	font-family: "font1EB";
+	src: url(./common/fonts/open-sans/OpenSans-ExtraBold.ttf);
+}
+@font-face {
+	font-family: "font1BI";
+	src: url(./common/fonts/open-sans/OpenSans-BoldItalic.ttf);
+}
+@font-face {
+	font-family: "font1I";
+	src: url(./common/fonts/open-sans/OpenSans-Italic.ttf);
+}
+@font-face {
+	font-family: "font1R";
+	src: url(./common/fonts/open-sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+	font-family: "font1SB";
+	src: url(./common/fonts/open-sans/OpenSans-Semibold.ttf);
+}
+@font-face {
+	font-family: "font1EBI";
+	src: url(./common/fonts/open-sans/OpenSans-ExtraBoldItalic.ttf);
+}
