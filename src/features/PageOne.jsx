@@ -36,7 +36,7 @@ const PageOne = () => {
 						size="2rem"
 						letterSpacing="0.25rem"
 					>
-						LOREMIPSUM DOLOR
+						LOREMIPSUM DOLORS
 					</TextComp>
 					<MarginComp marginning="7vh 0vw 0vh 0vw">
 						<ButtonComp
